@@ -7,5 +7,5 @@ appVersion: "1.1.0"
 name: App-of-apps
 description: A brief description of what the chart does.
 version: The chart version (used for versioning updates).
-appVersion: The application version the chart deploys.
+appVersion: "1.1.0"
 kubeVersion: ">=1.24"
